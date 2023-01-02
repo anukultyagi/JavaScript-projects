@@ -12,5 +12,19 @@
 <ul>
 <li>A nice and short warmUp</li>
 </ul>
+<h2>Project-4: Javascript filter feature</h2>
+<ul>
+<li>here, you learn how to filter your data using vanilla javaScript</li>
+</ul>
+<h2>Project-5: Javascript counter</h2>
+<ul>
+<li>here, you learn about different functions and events</li>
+</ul>
+<hr>
+<h3>Future Update🤞</h3>
+<ul>
+<li>make more device friendly</li>
+<li>change some color pallete</li>
+<li>counter should change color when changed in project 5</li>
+</ul>
 
-# note:- will update more later🤞
